@@ -1,0 +1,12 @@
+Para associar-se ao plano de saúde, faz-se necessário a celebração de um contrato entre a empresa 
+prestadora do serviço de plano de saúde e a pessoa interessada. Este contrato deve possuir ao menos uma pessoa
+vinculada, que será a titular do plano. Outras pessoas podem ser incluídas neste contrato 
+(no momento da celebração do contrato ou posteriormente), sendo chamadas de dependentes. 
+Cada pessoa do contrato deve ser tarifada de forma individual, sendo os preços definidos no momento do 
+fechamento do contrato ou momento da inclusão, de acordo com o sexo e a idade de cada um. 
+Estes valores serão reajustados anualmente, de acordo com autorização da Anvisa. Um contrato deve gerar
+uma única fatura mensal, em que serão incluídas as tarifas do titular e dos dependentes, caso existam. 
+Esta fatura deve possuir uma data de vencimento, percentual de multa e juros por dia. 
+Devem ser mantidos os históricos das consultas e exames realizados por cada uma das pessoas do contrato, 
+incluindo os profissionais de saúde que realizaram as consultas e exames. 
+Para as pessoas, devem ser armazenados o nome, endereço, data de nascimento e sexo. 
